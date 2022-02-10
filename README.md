@@ -1,2 +1,2 @@
 # csinnott91.github.io
-Personal website
+This is a project to host my personal career website.
